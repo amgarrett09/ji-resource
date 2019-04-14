@@ -10,7 +10,7 @@ The objective of the app is to provide an online learning platform where users c
 
 JI Resource will provided lessons with periodic quizzes to help users internalize the information. Ideally, lessons will contain both visuals and audio to help convey the material.
 
-Eventually, I want to incorporate authentication to allow the app to track the users' progress, but this will come after the basic functions of the app are already working fairly smootly.
+Eventually, I want to incorporate authentication to allow the app to track the users' progress, but this will come after the basic functions of the app are already working fairly smoothly.
 
 ## Technologies used
 
